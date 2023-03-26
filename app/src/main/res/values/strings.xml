@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EuropeanCountries</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_try_again">Error! Try Again!</string>
+    <string name="search_a_country">Search Country..</string>
+    <string name="sort_countries">Sort Countries</string>
+    <string name="population_descending">Population (Descending)</string>
+    <string name="population_ascending">Population (Ascending)</string>
+    <string name="a_z">A-Z</string>
+    <string name="z_a">Z-A</string>
+    <string name="defaultString">Default</string>
+    <string name="filter_countries">Filter Countries</string>
+    <string name="southeast_europe">Southeast Europe</string>
+    <string name="southern_europe">Southern Europe</string>
+    <string name="northern_europe">Northern Europe</string>
+    <string name="eastern_europe">Eastern Europe</string>
+    <string name="central_europe">Central Europe</string>
+    <string name="western_europe">Western Europe</string>
+    <string name="all_countries">All Countries</string>
+    <string name="not_has_borders">This country has not borders</string>
+    <string name="capital">Capital</string>
+    <string name="subregion">Subregion</string>
+    <string name="languages">Languages</string>
+    <string name="population">Population</string>
+    <string name="borders">Borders</string>
+
+</resources>
